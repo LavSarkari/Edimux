@@ -33,7 +33,7 @@ cd $HOME
 
 
 
-cd T-LOAD
+cd Edimux
 
 
 clear
